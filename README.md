@@ -15,7 +15,7 @@ Este repositório contém o código-fonte de uma API robusta para um sistema de 
 
 ## Como Iniciar
 
-1. Clone o repositório: `git clone https://github.com/miqueiasrodrigues/aluguel-de-carros-API-laravel.git`
+1. Clone o repositório: `git clone https://github.com/miqueiasrodrigues/api-aluguel-de-carros-laravel.git`
 2. Instale as dependências: `composer install`
 3. Configure as variáveis de ambiente para conexão com o MySQL no arquivo `.env`.
 4. Execute as migrações do banco de dados: `php artisan migrate`
